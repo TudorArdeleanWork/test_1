@@ -1,3 +1,4 @@
 14 Matei 4.7
 15 Ana 12.2
 ....
+mai punem o valoare
