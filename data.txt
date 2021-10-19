@@ -1,5 +1,5 @@
 14 Matei 4.7
 15 Ana 12.2
 ....
-mai punem o valoare dinaia mare
-x
+mai punem o valoare
+ultima valoare
